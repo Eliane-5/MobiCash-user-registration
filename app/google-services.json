@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "984985185213",
+    "firebase_url": "https://mobicash-android-app.firebaseio.com",
+    "project_id": "mobicash-android-app",
+    "storage_bucket": "mobicash-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984985185213:android:e4ddb3c0c448f31d4740d4",
+        "android_client_info": {
+          "package_name": "com.android1.mobicashandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984985185213-rira0bv03vscophnvtbv6prce9s2b50k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android1.mobicashandroidapp",
+            "certificate_hash": "5ad6a306ae0fd2df59ccbce0fcd78617addb9074"
+          }
+        },
+        {
+          "client_id": "984985185213-osbrj11oa49gmapaci1pp0lmmb1372m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android1.mobicashandroidapp",
+            "certificate_hash": "225a42c9e294a8d9ee9b7a5971cd4c379b02ce0f"
+          }
+        },
+        {
+          "client_id": "984985185213-l9h9b8k8brmgu6khmael3kvs9dp9ts0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0wpMh62cDsiW64YcbPG2Do9bvbcjmRpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984985185213-l9h9b8k8brmgu6khmael3kvs9dp9ts0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
